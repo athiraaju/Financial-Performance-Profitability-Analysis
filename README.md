@@ -70,6 +70,17 @@ The dataset contains financial information such as sales, profit, COGS, products
 - PDF report – Project documentation
 - PNG files – Dashboard screenshots
 
+## 📸 Dashboard Preview
+
+### 1. Overview
+![Overview Dashboard](Screenshot%202026-10-27%20021524.png)
+
+### 2. Profit Analysis
+![Profit Analysis](Screenshot%202026-10-27%20022603.png)
+
+### 3. COGS Analysis
+![COGS Analysis](Screenshot%202026-10-27%20023025.png)
+
 ## 🎓 Learning Outcomes
 
 Through this project, I gained practical experience in:
